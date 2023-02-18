@@ -1,3 +1,7 @@
+**Official Metro For Steam - https://github.com/minischetti/metro-for-steam**
+
+
+
 #                                                                    Edit Accent Color
 1. Open custom.styles
 2. Find the line that says Focus="5 255 97 255". This color is the green color in RGBA format
