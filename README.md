@@ -5,4 +5,4 @@
 
 **Official Metro Skin For Steam - https://github.com/minischetti/metro-for-steam**
 
-**Steam Chat & Library Skin - https://github.com/RoseTheFlower/newsteamchat**
+**Chat/Friends UI & Library Skin - https://github.com/RoseTheFlower/newsteamchat**
