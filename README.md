@@ -1,5 +1,7 @@
 **Official Metro For Steam - https://github.com/minischetti/metro-for-steam**
 
+*Steam Chat and Friend UI - https://github.com/RoseTheFlower/newsteamchat
+
 
 
 #                                                                    Edit Accent Color
