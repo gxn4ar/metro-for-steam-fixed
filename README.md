@@ -7,4 +7,4 @@
 
 **Chat/Friends UI & Library Skin - https://github.com/RoseTheFlower/newsteamchat**
 
-**Shop Skin - https://github.com/AikoMidori/steam-dark-mode**
+**Store Skin - https://github.com/AikoMidori/steam-dark-mode**
